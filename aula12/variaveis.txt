@@ -1,0 +1,7 @@
+velocidade inicial = 10
+x inicial = 5
+y inicial = 3
+passo = 0.025
+gravidade = 10
+b = 0.00004
+massa = 0.10
